@@ -113,33 +113,31 @@ Los RFCs:
 ### Core
 
 - [`RFC-0000.md`](./rfcs/RFC-0000.md) — Core Architecture
-- [`RFC-0001.md`](./rfcs/RFC-0001.md) — EITL (Event In The Loop)
-- [`RFC-0002.md`](./rfcs/RFC-0002.md) — Dimensional Model
-- [`RFC-0003.md`](./rfcs/RFC-0003.md) — Patterns as Orchestrators
+- [`RFC-0001.md`](./rfcs/RFC-0001.md) — Step Model
+- [`RFC-0002.md`](./rfcs/RFC-0002.md) — Process Lifecycle
+- [`RFC-0003.md`](./rfcs/RFC-0003.md) — Dimensional Model
+- [`RFC-0004.md`](./rfcs/RFC-0004.md) — EITL (Event In The Loop)
+- [`RFC-0005.md`](./rfcs/RFC-0005.md) — Context Inheritance & DAGs
 
 ---
 
-### Governance
+### Governance & Evolution
 
-- [`RFC-0010.md`](./rfcs/RFC-0010.md) — RFC Lifecycle
-- [`RFC-0011.md`](./rfcs/RFC-0011.md) — Voting & Collective Decisions
-- [`RFC-0012.md`](./rfcs/RFC-0012.md) — Delegation & Affinity
-
----
-
-### Security & Privacy
-
-- [`RFC-0020.md`](./rfcs/RFC-0020.md) — Security Dimensions
-- [`RFC-0021.md`](./rfcs/RFC-0021.md) — Privacy Dimensions
-- [`RFC-0022.md`](./rfcs/RFC-0022.md) — Anomaly Handling
+- [`RFC-0006.md`](./rfcs/RFC-0006.md) — Pattern Model & Orchestration
+- [`RFC-0007.md`](./rfcs/RFC-0007.md) — Pattern Security & Affinity
+- [`RFC-0008.md`](./rfcs/RFC-0008.md) — Pattern Evolution & Invalidation
+- [`RFC-0009.md`](./rfcs/RFC-0009.md) — Simulation as a Dimension
 
 ---
 
-### Simulation & Evolution
+### Security, Privacy & Control
 
-- [`RFC-0030.md`](./rfcs/RFC-0030.md) — Simulation as Dimension
-- [`RFC-0031.md`](./rfcs/RFC-0031.md) — Pattern Evolution
-- [`RFC-0032.md`](./rfcs/RFC-0032.md) — Observability & Entropy
+- [`RFC-0010.md`](./rfcs/RFC-0010.md) — Security Dimensions & KYC DAG
+- [`RFC-0011.md`](./rfcs/RFC-0011.md) — Privacy Dimensions
+- [`RFC-0012.md`](./rfcs/RFC-0012.md) — Anomaly Detection & EEP
+- [`RFC-0013.md`](./rfcs/RFC-0013.md) — Observability & Entropy
+- [`RFC-0014.md`](./rfcs/RFC-0014.md) — Delegation, Voting & Collective Decisions
+
 
 ---
 
